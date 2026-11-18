@@ -169,8 +169,8 @@ O endpoint de relatos não solicita nome, e-mail, telefone ou outros identificad
 
 
 
-## Prompts
+## Prompts usados
 
 ```bash
-Olá. preciso de ajuda para refinar meu README de um trabalho de C#
+Olá, preciso de ajuda para refinar meu README de um trabalho de C#
 ```
