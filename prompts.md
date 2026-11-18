@@ -10,4 +10,8 @@ Este arquivo deve registrar os prompts efetivamente utilizados pela equipe duran
 
 ## Prompts usados
 
+```bash
 Olá, preciso de ajuda para refinar meu README de um trabalho de C#
+
+Com a minha ajuda e autorização, Refine e melhore, o arquivo README.md 
+```
