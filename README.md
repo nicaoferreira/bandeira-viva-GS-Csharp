@@ -130,16 +130,28 @@ O endpoint de relatos não solicita nome, e-mail, telefone ou outros identificad
 
 ## Evidências de funcionamento
 
-Adicionar nesta seção, antes da entrega:
 
 1. Print da API executando.
 <img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/36d076ef-ded8-41ca-b980-04d0c712d8fa" />
 
-3. Print do Swagger com a lista de endpoints.
-4. Print da listagem das praias.
-5. Print de criação e consulta de uma medição.
-6. Print de criação e consulta de um relato.
-7. Print da execução dos testes unitários.
+2. GET – Listar todas as praias
+<img width="1919" height="991" alt="image" src="https://github.com/user-attachments/assets/752d16b5-b5ed-447c-8463-7b01e782e67b" />
+ 
+3. GET – Consultar praia por ID
+<img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/69047b79-0950-4bb6-b73a-06341f1f372b" />
+
+4. POST – Cadastrar leitura da água
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/646aa005-f40e-4e76-a9a6-fd634a119c7e" />
+
+5. GET – Consultar histórico de leituras da praia
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/26b0a340-fe4b-4728-bc61-9e4d9fbeeab9" />
+
+6. POST – Registrar denúncia anônima
+<img width="1919" height="1029" alt="image" src="https://github.com/user-attachments/assets/b25ef9b5-18bb-46f8-9d83-fddb8bd9c123" />
+
+7. GET – Consultar denúncias por praia
+<img width="1919" height="1031" alt="image" src="https://github.com/user-attachments/assets/5a05f38a-238d-49ee-b558-565101ff1f5b" />
+
 
 ## Evoluções previstas
 
