@@ -4,6 +4,10 @@ Este arquivo deve registrar os prompts efetivamente utilizados pela equipe duran
 
 ## Registro inicial
 
-- Uso: apoio à estruturação inicial do backend C#/.NET, organização das camadas, elaboração de exemplos de endpoints REST, configuração do Entity Framework Core e criação de testes unitários.
-- Validação humana: a equipe deve executar, revisar, compreender e validar todo o código antes da entrega.
-- Observação: atualizar este arquivo com os prompts reais utilizados nas próximas etapas. Não registrar prompts que não tenham sido utilizados.
+- Uso: apoio à estruturação inicial do backend C#/.NET, estruturação do arquivo README.md e organização do projeto
+- Validação humana: a equipe deve executar, revisar, compreender e validar todo o código antes da entrega
+
+
+## Prompts usados
+
+Olá, preciso de ajuda para refinar meu README de um trabalho de C#
