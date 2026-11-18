@@ -165,12 +165,3 @@ O endpoint de relatos não solicita nome, e-mail, telefone ou outros identificad
 - Integração com o modelo de Machine Learning da equipe.
 - Migrações formais do Entity Framework Core para evolução do banco de dados.
 
-
-
-
-
-## Prompts usados
-
-```bash
-Olá, preciso de ajuda para refinar meu README de um trabalho de C#
-```
