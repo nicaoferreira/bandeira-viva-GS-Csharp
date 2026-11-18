@@ -4,10 +4,9 @@ Backend acadêmico da CitizenTech **Bandeira Viva**, proposta para apoiar morado
 
 ## Integrantes
 
-- Nicolas Lorenzo Ferreira da Silva — RM 557962
-- Pedro Henrique Faim dos Santos — RM 557440
-
-> Confirme os integrantes e RMs antes da entrega final.
+- Luiz Felipe Motta da Silva - RM 559126
+- Nicolas Lorenzo Ferreira da Silva - RM 557962
+- Pedro Henrique Faim dos Santos - RM 557440
 
 ## Problema e proposta
 
