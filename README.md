@@ -156,7 +156,21 @@ O endpoint de relatos não solicita nome, e-mail, telefone ou outros identificad
 ## Evoluções previstas
 
 - Integração com fontes públicas de meteorologia, marés e histórico de balneabilidade.
+
+
+
+
 - Recebimento de dados do dispositivo ESP32.
 - Integração com o aplicativo mobile.
 - Integração com o modelo de Machine Learning da equipe.
 - Migrações formais do Entity Framework Core para evolução do banco de dados.
+
+
+
+
+
+## Prompts
+
+```bash
+Olá. preciso de ajuda para refinar meu README de um trabalho de C#
+```
