@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/BandeiraViva.Api/BandeiraViva.Api.csproj" />
+  <Project Path="tests/BandeiraViva.Tests/BandeiraViva.Tests.csproj" />
+</Solution>
