@@ -133,11 +133,13 @@ O endpoint de relatos não solicita nome, e-mail, telefone ou outros identificad
 Adicionar nesta seção, antes da entrega:
 
 1. Print da API executando.
-2. Print do Swagger com a lista de endpoints.
-3. Print da listagem das praias.
-4. Print de criação e consulta de uma medição.
-5. Print de criação e consulta de um relato.
-6. Print da execução dos testes unitários.
+<img width="1919" height="988" alt="image" src="https://github.com/user-attachments/assets/36d076ef-ded8-41ca-b980-04d0c712d8fa" />
+
+3. Print do Swagger com a lista de endpoints.
+4. Print da listagem das praias.
+5. Print de criação e consulta de uma medição.
+6. Print de criação e consulta de um relato.
+7. Print da execução dos testes unitários.
 
 ## Evoluções previstas
 
